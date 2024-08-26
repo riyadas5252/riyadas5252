@@ -11,6 +11,8 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1pVBQfRjakGu33abT1vXczpR_JK2rBEa7/view?usp=sharing](https://drive.google.com/file/d/1pVBQfRjakGu33abT1vXczpR_JK2rBEa7/view?usp=sharing)
 
+- ⚡ Fun fact **I love to travel a lot!**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/riya-das-53abb230b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="riya-das-53abb230b" height="30" width="40" /></a>
