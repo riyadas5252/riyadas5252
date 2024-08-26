@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Riya Das</h1>
 <h3 align="center">I'm a passionate developer with a keen interest in web development. I enjoy creating projects that solve real-world problems and constantly strive to improve my skills.</h3>
-<img align="right" alt="Coding" width="400" src="C:\Users\riyad\Downloads\68747470733a2f2f7777772e6b656570736f6c69642e636f6d2f626c6f672f77702d636f6e74656e742f75706c6f6164732f323031382f31322f67697068792d61727469636c652d746f702d746f6f6c732d666f722d6d616e61676572732e676966.gif">
+<img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGkxYTI4cGN2eWcyNDY3MnFhMTlzZWxpMnMyemJlZ3h6NmU5YjlpZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mTPjPA6SSXgTsnZ1Dh/giphy.webp">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hritwickg&label=Profile%20views&color=0e75b6&style=flat" alt="hritwickg" /> </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=riyadas5252&label=Profile%20views&color=0e75b6&style=flat" alt="riyadas5252" /> </p>
 
