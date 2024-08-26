@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Riya Das</h1>
 <h3 align="center">I'm a passionate developer with a keen interest in web development. I enjoy creating projects that solve real-world problems and constantly strive to improve my skills.</h3>
 <img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGkxYTI4cGN2eWcyNDY3MnFhMTlzZWxpMnMyemJlZ3h6NmU5YjlpZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mTPjPA6SSXgTsnZ1Dh/giphy.webp">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hritwickg&label=Profile%20views&color=0e75b6&style=flat" alt="hritwickg" /> </p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=riyadas5252&label=Profile%20views&color=0e75b6&style=flat" alt="riyadas5252" /> </p>
 
 - 🌱 I’m currently learning **Cloud Computing with AWS**
